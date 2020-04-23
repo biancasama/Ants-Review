@@ -1,2 +1,3 @@
-# ants-review-whitepaper
-ETH Turin 2020 - Hackathon team 2 proposal 
+# Ants-Review Whitepaper
+
+> ETHTurin 2020 Hackathon proposal (team 2: MetaBounty) 
