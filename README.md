@@ -1,6 +1,6 @@
 # Ants-Review Whitepaper
 
-> ETHTurin 2020 Hackathon proposal (team 2: MetaBounty) 
+> ETHTurin 2020 https://ethturin.com/ Hackathon proposal (team 2: MetaBounty) 
 Ants-Review
 A Bounty-like system for Open Anonymous Scientific Peer-Reviews
 BIANCA TROVÒ* and NAZZARENO MASSARI*
