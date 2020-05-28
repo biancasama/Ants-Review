@@ -9,9 +9,9 @@ A Bounty-like system for Open Anonymous Scientific Peer-Reviews
 
 [BIANCA TROVÒ](https://www.linkedin.com/in/bianca-m-trovo/) and [NAZZARENO MASSARI](http://nazzarenomassari.com)
 
-[Whitepaper](https://docs.google.com/document/d/1cwUHgXDQ1UZn4G2wP0Eq1f3HN8xVjcqr43TzSF0Skb0/edit#)
+[Whitepaper](https://zenodo.org/record/3828087#.Xs8TwC-ZM1I)
 
-[Hackathon presentation](https://docs.google.com/presentation/d/1yzyJ9ANSveac_mfu8qZii-ypsp01FXJGlcdMn32NqVo/edit#slide=id.g8421161ba1_0_718)
+[Hackathon presentation](https://doi.org/10.5281/zenodo.3828066)
 
 [Code](https://github.com/naszam/ants-review)
 
