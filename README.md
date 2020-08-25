@@ -1,7 +1,7 @@
 [![ETH Turin 2020](https://img.shields.io/badge/%CE%9E-ETH%20Turin%202020-F64060.svg)](https://ethturin.com)
 [![DOI](https://zenodo.org/badge/258342586.svg)](https://zenodo.org/badge/latestdoi/258342586)
 
-# Ants-Review Whitepaper
+# Ants-Review Design
 
 > ETHTurin 2020 Hackathon proposal (team 2: MetaBounty) 
 Ants-Review
